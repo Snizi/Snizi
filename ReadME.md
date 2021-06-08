@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Creating some scripts to help me on daily basis or CTF's.
 - 🎓 &nbsp; Studying Information Systems at Federal University of Rio Grande.
-- 💼 &nbsp; Chasing some bugs arounds the internet on my free time.
+- 💼 &nbsp; Chasing some bugs around the internet on my free time.
 - 🌱 &nbsp; Learning more about Web Development, Web Hacking and Reverse Engineering.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
