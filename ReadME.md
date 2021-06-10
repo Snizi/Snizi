@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Creating some scripts to help me on daily basis or CTF's.
-- 🎓 &nbsp; Studying Information Systems at Federal University of Rio Grande.
+- 🎓 &nbsp; Studying <b>Information Systems</b> at <a href="https://www.furg.br/"><b>Federal University of Rio Grande</b></a>.
 - 💼 &nbsp; Chasing some bugs around the internet on my free time.
 - 🌱 &nbsp; Learning more about Web Development, Web Hacking and Reverse Engineering.
 
@@ -25,8 +25,8 @@
 <br/>
 
 <a href="https://github.com/Snizi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Snizi&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snizi&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Snizi&theme=jolly&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snizi&theme=jolly&layout=compact" />
 </a>
 
 <br/>
