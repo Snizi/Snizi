@@ -6,7 +6,7 @@
 - 🎓 &nbsp; Studying <b>Information Systems</b> at <a href="https://www.furg.br/"><b>Federal University Of Rio Grande</b></a>.
 - 💼 &nbsp; Chasing some <a href="https://hackerone.com/snizi"><b>bugs</b></a> around the internet on my free time.
 - 🌱 &nbsp; Learning more about Web Development, Web Hacking and Reverse Engineering.
-- 👻 &nbsp; Working at iTec/FURG
+- 👻 &nbsp; Working at <a href="https://www.itecfurg.org/">iTec</a>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
