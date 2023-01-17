@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Creating some scripts to help me on daily basis or CTF's.
 - 🎓 &nbsp; Studying <b>Information Systems</b> at <a href="https://www.furg.br/"><b>Federal University Of Rio Grande</b></a>.
-- 💼 &nbsp; Working at <a href="http://www.itecfurg.org/"><b>iTec</b></a>
+- 💼 &nbsp; Working at <a href="https://defensepoint.com/"><b>iTec</b></a>
 - 🌱 &nbsp; Learning more about Mobile Development, AppSec and Reverse Engineering.
 - 👻 &nbsp; Exploiting some <a href="https://hackerone.com/snizi"><b>vulns</b></a> in web applications on my free time. 
 
