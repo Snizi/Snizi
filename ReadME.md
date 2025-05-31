@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Creating some scripts to help me on daily basis or CTF's.
-- 🎓 &nbsp; Studying <b>Information Systems</b> at <a href="https://www.furg.br/"><b>Federal University Of Rio Grande</b></a>.
+- 🎓 &nbsp; Graduated in <b>Information Systems</b> from <a href="https://www.furg.br/"><b>Federal University Of Rio Grande</b></a>.
 - 💼 &nbsp; Working at <a href="https://defensepoint.com/"><b>DefensePoint</b></a>
 - 🌱 &nbsp; Working mainly with Appsec and Web App Pentesting.
 - 👻 &nbsp; Exploiting some <a href="https://hackerone.com/snizi"><b>vulns</b></a> in web applications on my free time. 
